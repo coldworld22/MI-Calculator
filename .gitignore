@@ -1,0 +1,7 @@
+# Node and npm folders (if you have them)
+node_modules/
+.npm/
+
+# Temporary files
+*.log
+.DS_Store
